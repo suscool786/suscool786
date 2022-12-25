@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suscool786
-- 👀 I’m interested in Junior Software Developer,Quality Analyst , Junior Java Developer, Associate software developer
-- 🌱 I’m currently learning Python, Java , MYSQL
+- 👀 I’m interested in Software Developer,Quality Analyst , Front-end Developer, Associate software developer
+- 🌱 Skills currently have Html , Css , JavaScript, Java , MYSQL
 - 📫 How to reach me (6393130207)
 
 <!---
